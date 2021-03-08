@@ -1,0 +1,802 @@
+
+@media screen and (max-width: 375px) {
+    .top-container {
+        background: url('/images/MJLK-img-375.svg')
+    no-repeat center left/cover; 
+    }
+
+    .modal {
+        bottom : 3%;
+        width: 95%;
+        height: 60vh;
+    }
+
+    .title-cookies {
+        font-size: 0.9rem;
+    }
+
+    .gear-icon {
+        width: 40px;
+        height: 40px;
+    }
+
+    .details-cookies {
+        font-size: 0.9rem;
+    }
+
+    .cookie-option {
+        left: 15%;
+        width: 190px;
+        height: 45px;
+    }
+
+    .accept-cookies {
+        font-size: 13px; 
+        font-weight: normal;
+    }
+
+    .title__majelink {
+        margin-top: 120px;
+    }
+
+    .majelink__subject1 {
+        margin-left: -30px;
+    }
+    .sanction-rgpd {
+        width: 230px;
+        margin-top: 160px;
+        margin-left: -35px;
+    }
+
+    .intro-container {
+        flex-direction: column;
+    }
+
+    .cover-avatar {
+        width: 60px;
+        height: 60px;
+        border: 2px solid rgb(39, 41, 95);
+    }
+
+    .mjj-avatar {
+        width: 55x;
+        height: 50px;
+    }
+
+    .intro {
+        width: 230px;
+        text-align: center;
+        margin: 4px 0 0 10px;
+        font-weight: lighter;
+    }
+
+    .prestations {
+        width: 240px;
+        font-size: 27px;
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 10px;
+    } 
+
+    .prestation-title {
+        width: 90%;
+        text-align: center;
+        font-size: 14px;
+    }
+
+    .formules {
+        flex-direction: column;
+    }
+
+    .blur__starter-cover {
+        width: 300px;  
+        transform: matrix(0.99, -0.14, 0.15, 0.99, 0, 0);
+        margin-left: 12px;
+    }
+
+    .price__stater-cover {
+        width: 300px; 
+        margin: 0 0 0 0px;
+    }
+
+    .blur__webdev-cover {
+        width: 300px;  
+        transform: matrix(0.99, -0.14, 0.15, 0.99, 0, 0);
+        margin-left: 22px;
+    }
+
+    .price__webdev-cover {
+        width: 300px; 
+    }
+
+    .comply {
+        margin: -80px 0 0px 40px;
+        }
+
+    .blur__comply-cover {
+        width: 300px;  
+        transform: matrix(0.99, -0.14, 0.15, 0.99, 0, 0);
+        margin-right: 12px;
+    }
+
+    .price__comply-cover {
+        width: 300px; 
+    }
+
+    .price-details {
+        grid-template-columns: 25px 4fr;
+        grid-template-rows: 35px 35px 35px 35px;
+    }
+
+    .detail-task {
+        font-size: 13px;  
+    }
+
+    .question-span {
+        offset-position: top -20px;
+        margin-left: 200px;
+    }
+
+    .guide-web {
+        width: 300px; 
+    }
+
+    .subscribe {
+        margin-left: 48px; 
+    }
+
+    .info-payment {
+        width: 230px;
+        margin-top: 70px;
+        font-size: 15px; 
+        line-height: 20px;
+    }
+
+    .intro-form {
+        margin-bottom: 30px;
+        margin: -30px 0px 50px 0px;
+        font-size: 25px;
+    }
+
+    .test-rgpd {
+        width: 280px;
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .question1 {
+        margin-top: -50px;
+        margin-left: -2px;
+        font-size: 15px;
+        width: 260px;
+        padding: 10px 10px 10px 15px;
+        text-align: center;
+    }
+
+    .exemple {
+        font-size: 15px;
+    }
+
+    .direction-rgpd1 {
+        width: 360px; 
+    }
+
+    .ifYes {
+        margin-top: -20px;
+    }
+
+    .okIcon {
+        width: 17px;
+        height: 17px;
+    }
+
+    .siOui {
+        font-size: 10px;
+    }
+
+    .down1 {
+        margin-right: 10px;
+        height: 50px; 
+    }
+
+    .right1 {
+        height: 50px; 
+    }
+
+    .rgpd-false1 {
+        margin-top: 30px;
+    }
+
+    .apply-rgpd1 {
+        font-size: 11px; 
+        width: 90px; 
+    }
+
+    .question2 {
+        font-size: 15px;
+        width: 260px;
+        margin-left: -38px;
+        padding: 10px 10px 10px 15px;
+        text-align: center;
+    }
+
+    .direction-rgpd2 {
+        width: 360px; 
+        margin-left: 12px;
+    }
+
+    .apply-rgpd2 {
+        font-size: 11px; 
+        width: 70px; 
+    }
+
+    .rgpd-true2 {
+        margin-top: 27px;
+    }
+
+    .down2 {
+        margin-right: 10px;
+        height: 50px;  
+    }
+
+    .right2 {
+        height: 50px; 
+    }
+
+    .question3 {
+        font-size: 15px;
+        width: 260px;
+        padding: 10px 10px 10px 15px;
+        text-align: center;
+    }
+
+    .direction-rgpd3 {
+        width: 360px; 
+        margin-left: 12px;
+        margin-top: 20px;
+    }
+
+    .warning-rg {
+        width: 280px;
+        margin: 0 10px 0 0;
+    }
+
+    .warning {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .contact-form {
+        width:100%;
+    }
+
+    .contact-intro {
+        width: 280px;
+        font-size: 25px;
+        margin-top: -40px;
+    }
+
+    .contact-title {
+        position: relative;
+        width:100%;
+        font-size: 13px;
+        margin-top: 30px ;
+    }
+
+    .span-form {
+        display: none;
+    }
+
+    /* .contGlobal {
+        width: 90%;
+        height: 130vh;
+        margin-left: 0.5px;
+        margin-right: 10px;
+    }
+
+    .panneauGauche {
+        width: 320px;
+    } */
+
+    .contGlobal {
+        flex-direction: column;
+        min-height: 100vh;
+        width: 100vw!important;
+        align-items: center;
+    }
+    .panneauDroit {
+        display: none;
+    }
+    .panneauGauche {
+        width: 70vw!important;
+        padding: 25px;
+    }
+}
+
+    .formBloc h6 {
+        font-size: 25px;
+        font-weight: 500;
+        margin-bottom: 20px;
+    }
+
+    .formBloc .formGroup {
+        margin-bottom: 20px;
+    }
+
+    .formBloc .formGroup input {
+        width: 300px;
+    }
+
+    .field {
+        width: 270px;
+        padding: 0;
+        font-size: 12px;
+        height: 50px;
+    }
+
+    .area {
+        
+    }
+
+    .formBloc .formGroup .buttonSub {
+        display: block;
+        width: 100%;
+        padding: 10px 10px;
+        font-size: 14px;
+        font-weight: 100;
+        cursor: pointer;
+    }
+
+    .sucess-form1 {
+        flex-direction: column;
+        height: 60px;
+        align-items: center;
+        width: 100%;
+
+    }
+
+    .sucess-form2 {
+        flex-direction: column;
+        height: 60px;
+        align-items: center;
+        width: 100%;
+    }
+
+    .success-message {
+        font-size: 12.5px;
+    }
+
+    .img-success {
+        width: 24px;
+        height: 24px;
+        margin-left: 110px;
+    }
+
+    .icon3d {
+        display: none;
+    }
+
+    .download-container {
+        width: 80%;
+        flex-direction: column;
+    }
+
+    .left-download {
+        width: 300px;
+        margin-top: 10px;
+    }
+
+    .fiche-intro {
+        width: 280px;
+        font-size: 25px;
+        text-align: center;
+        margin-left: -12px;
+    }
+
+    .fiche-intro2 {
+        font-size: 13px;
+    }
+
+    .cover-acces {
+        width: 90%;
+        margin-left: -8px;
+        margin-bottom: 50px;
+        padding: 8px;
+    } 
+
+    .acces-image {
+        width: 18px;
+        height: 35px;
+    }
+    
+    .script-acces {
+        font-size: 12px;
+    }
+
+    .access-reserved {
+        font-size: 13px;
+    }
+
+    .fiche-title {
+        width: 200px;
+        margin-left: 70px;
+        font-weight: 300;
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    .right-download {
+        width: 111%;
+        margin-left: -13px;
+    }
+
+    .download-square {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+
+    .download-design {
+        display:none;
+    }
+
+    .number-file {
+        font-size: 10px;
+        padding: 4px 10px;
+    }
+
+    .download-button {
+        padding: 4px 8px;
+    }
+
+    .download-button img {
+        width: 20px;
+        height: 18px;
+    }
+
+    .title-file {
+        font-size: 13px;
+        font-weight: 200;
+        text-align: justify;
+    }
+
+    .faq-container {
+        width: 100%;
+    }
+    
+    .faq-title {
+        width: 230px;
+        margin-left: 45px;
+        margin-top: 30px;
+        font-size: 25px;
+        
+    }
+
+    .faq-intro {
+        width: 80%;
+        margin-left: 30px;
+        margin-top: 20px;
+    }
+
+    .faq-content {
+        width: 100%;
+        grid-template-columns: 1fr;
+        gap: 30px 30px;
+    }
+
+    .faq-box {
+        width: 280px;
+    }
+
+    .stay {
+        margin-left: 40px;
+    }
+
+    #newsletter-container {
+        flex-direction: column;
+        width: 100%; 
+        margin-top: -500px; 
+    }
+
+    #img-newsletter {
+        height: 600px;
+    }
+
+    .newsleft {
+        width: 300px;
+    }
+
+    .news-title {
+        width: 100%;
+        font-size: 25px;
+        margin-left: 100px;
+    }
+
+    .news-intro {
+        width: 70%;
+        font-size: 15px;
+        margin-left: 80px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .newsright {
+        width: 300px;
+    }
+
+    #news-form {
+        width: 94%;
+        height: 230px;
+        margin-left: 10px;
+    }
+
+    #field-news {
+        height: 40px;
+        margin-bottom: -10px;
+    }
+
+    .subscribe1 {
+        width: 86%;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .contact-news {
+        width: 280px;
+        text-align: center;
+        margin-left: 10px; 
+    }
+
+    .bloc-form-news {
+        flex-direction: column;
+    }
+
+    #field-news {
+        width: 260px;   
+    }
+
+    .footer-container {
+        width: 100%;
+        height: 140vh;
+        grid-template-columns: 1fr;
+    }
+
+    .mjj-profil {
+        justify-content: center; 
+        margin-top: 10px;
+    }
+
+    .mjj-avatar2 {
+        margin-top: 10px;  
+    }
+
+    .mjj-name {
+        font-size: 13px;
+    }
+
+    .founder {
+        font-size: 13px;
+    }
+
+    .passion {
+        font-size: 13px;
+    }
+
+    .lawyer {
+        font-size: 13px;
+    }
+
+    .logo__majelink-2 {
+        margin-left: 40px;
+    }
+
+    .footer-title__presta {
+        font-size: 13px;
+    }
+
+    .footer-title__contact {
+        font-size: 13px;
+    }
+
+    .footer-title__contact2 {
+        font-size: 13px;
+    }
+
+    .mentions-legales {
+        font-size: 13px;
+    }
+
+    .politique-donnees {
+        font-size: 13px;
+    }
+
+    .cgv {
+        font-size: 13px;
+    }
+
+    .doc {
+        margin-left: 100px; 
+    }
+
+    .website {
+        width: 150px;
+        font-size: 12px; 
+    }
+
+    .rights {
+        font-size: 12px;  
+    }
+
+
+    /* navigation menu */
+    .navigation__logo {
+        position: absolute;
+        left: -45px;
+    }
+    .logo__majelink-1 {
+        margin-top: 0px;
+        width: 40px;
+        height: 40px; 
+    }
+
+    .right-menu {
+        display: block;
+    }
+
+    .navigation__item {
+        display: block;
+        position: absolute;
+        top: 70px;
+        right: 13px;
+        background: #fff;
+        width: 65%;
+        height:45vh;
+        opacity: 0.9;
+        padding: 10px;
+        padding-left: 12%;
+        text-align: center;
+        border-radius: 15px;
+        transform: translateX(500px);
+        transition: transform 0.5s ease-in-out;
+
+    }
+
+    .navigation__item.show{
+        transform: translateX(-20px);
+    }
+
+    .menu-link {
+        padding: 10px;
+        margin-left: 50px;
+        border-bottom: 1px solid #cccccc;
+        font-size: 17px;
+    }
+
+    .item-link {
+    color: black;
+    margin-left: -30px;
+    text-align: left;
+    }
+
+    .menu-link:last-child {
+        border-bottom: 0;
+    }
+
+    .majelink__banner {
+        font-size: 1.9rem;
+        margin-top: -20px;
+        margin-bottom: 30px;
+    }
+
+    .majelink__subject1 {
+        font-size: 1.4rem;
+        margin-bottom: 30px;
+        width: 240px;
+    }
+
+    .fleche {
+        display: none;
+    }
+
+    .sanction-rgpd {
+        grid-template-columns: 1fr 3fr;
+        box-shadow: rgba(24, 32, 79, 0.25) 0px 40px 80px, rgba(255, 255, 255, 0.3) 0px 0px 0px 0.3px inset;
+    }
+
+    .sanction-logo {
+        width: 30px;
+        height: 30px;
+    }
+
+    .button-rgpd {
+        display: none;
+    }
+
+    .sanction1 {
+        font-size: 1rem;
+    }
+
+    .sanction2 {
+        font-size: 0.84rem; 
+    }
+
+    .mjj-avatar1 {
+        width: 55px;
+        height: 35px;
+    }
+
+    .intro {
+        font-size: 14px;
+    }
+    
+    .starter {
+    margin: 0 0 80px 40px;
+
+    }
+
+    .blur__starter-cover {
+
+    }
+    
+    .price__stater-cover {
+
+    }
+
+    .price {
+        font-size: 45px;
+    }
+
+    .price-details {
+    }
+
+    .subscribe {
+        width: 169px;
+        margin-top: 40px;
+        transition: transform 0.5s ease-in-out; 
+    }
+
+    .webdev {
+        margin: 0 0 140px 40px;
+        }
+
+/* ----------FIN 375PX */
+
+
+@media screen and (max-width: 320px) {
+
+}
+
+@media (orientation: landscape) {
+
+}
+
+
+
+/* ---------- querie right menu ------ */
+
+
+/* ---------- FIN querie right menu ------ */
+/*  media querries all */
+
+/* fin medias querries all */
+
+/* ---------- fin media queries */
+
+
+
+/*  -------- MEDIA QUERRIES */
+/* 
+@media screen and (max-width: 380px) {
+    txt-animation {
+        font-size: 15px!important;
+    }
+}
+
+@media screen and (max-width: 370px) {
+    txt-animation {
+        font-size: 13px!important;
+    }
+} */
+
+/* Page - Mentions legales  */
+
